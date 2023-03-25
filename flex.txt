@@ -1,0 +1,30 @@
+/* .flex{
+    display: flex;
+    justify-content:space-between !important;
+    height: 50vh;
+    align-items:start;
+        flex-direction:column;
+align-items: end;
+justify-content: center;
+
+}
+ */
+
+ /* .flex{
+    height: 100vh;
+    display:flex;
+justify-content: space-evenly !important ;
+flex-direction: column;
+align-items: end;  
+justify-content: flex-end;   
+
+ }
+
+
+ */
+
+
+.flexx{
+position: static;
+
+}
